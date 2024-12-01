@@ -4,7 +4,7 @@ import Swap from "@/components/Swap";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Gemini PRO",
+  title: "AI Smart Learning",
   description: "Chat with Gemini Pro AI",
   manifest: "/manifest.json",
   metadataBase: new URL("https://geminix-pro.vercel.app/"),
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         url: "/android-chrome-512x512.png",
         width: 512,
         height: 512,
-        alt: "GeminiPRO Chat AI",
+        alt: "AI Sudent Assistant",
       },
     ],
   },
